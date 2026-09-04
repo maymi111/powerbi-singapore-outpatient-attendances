@@ -26,7 +26,7 @@ The dashboard provides an overview of outpatient attendance trends, service dist
 
 **Dataset:** Outpatient Attendances (A&E, SOCs, Polyclinics, Dental)
 
-**Source:** [Singapore Government Data](https://data.gov.sg/datasets?query=Outpatient+Attendances)
+**Source:** [Singapore Government Data](https://data.gov.sg/datasets/d_e818f045a9681df2db90a493803a60d2/view)
 
 **Period:** January 2006 – December 2021
 
