@@ -55,10 +55,10 @@ The dashboard includes:
 
 ### Yearly View
 
-![Yearly View](/yearly view.png)
+![Yearly View](./yearly view.png)
 
 ### Key Takeaway
-![Key Takeaway](/Key Takeaway.png)
+![Key Takeaway](./Key Takeaway.png)
 
 ##  Key Insights
 
